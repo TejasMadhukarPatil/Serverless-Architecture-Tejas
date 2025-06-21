@@ -61,3 +61,9 @@ Assignment 4: Automatic EBS Snapshot and Cleanup Using AWS Lambda and Boto3
 4. Event Source (Bonus): - Attach an event source, like Amazon CloudWatch Events, to trigger the Lambda function at your desired backup frequency (e.g., every week).
 
 5. Manual Invocation: - After saving your function, either manually trigger it or wait for the scheduled event.
+   ![image](https://github.com/user-attachments/assets/ab2a0810-54c8-4f03-a821-737ef9297556)
+   ![image](https://github.com/user-attachments/assets/a19b559f-f120-464a-93b4-67f5d77bd7f2)
+   ![image](https://github.com/user-attachments/assets/5827c1a9-6510-4496-b41c-bf45b851e6d7)
+
+
+
